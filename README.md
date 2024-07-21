@@ -1,36 +1,7 @@
 # Task List Application
 
-This is a task list application built with FastAPI for the backend and React.js for the frontend. It includes features for creating, reading, updating, and deleting tasks.
-
-## Project Structure
-task_app/
-├── app/
-│ ├── init.py
-│ ├── main.py
-│ ├── models.py
-│ ├── schemas.py
-│ ├── crud.py
-│ ├── database.py
-│ ├── dependencies.py
-│ ├── routers/
-│ │ ├── init.py
-│ │ ├── task.py
-│ ├── tests/
-│ │ ├── init.py
-│ │ ├── test_main.py
-├── frontend/
-│ ├── index.html
-│ ├── styles.css
-│ ├── src/
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ ├── TaskFormModal.js
-│ │ ├── TaskList.js
-│ │ ├── TaskList.css
-├── requirements.txt
-├── README.md
-
-
+This is a task list application built with FastAPI for the backend and React.js for the frontend. 
+It includes features for creating, reading, updating, and deleting tasks.
 
 
 ## Technologies Used
