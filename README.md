@@ -120,13 +120,6 @@ It includes features for creating, reading, updating, and deleting tasks.
     pytest
     ```
 
-### Contributing
-
-Feel free to open issues or create pull requests to improve the project.
-
-### License
-
-This project is licensed under the MIT License.
 
 
 
