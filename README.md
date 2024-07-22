@@ -25,7 +25,7 @@ It includes features for creating, reading, updating, and deleting tasks.
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Tharunreddygtr/task_app
+    git clone https://github.com/Tharunreddygtr/task_app.git
     cd task_app
     ```
 
